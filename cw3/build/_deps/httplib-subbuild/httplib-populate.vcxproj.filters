@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\83dcdbcde4561a2b9d811e7aea72477a\httplib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\fee9f207451173a72911d7b030bb9a9f\httplib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\a39f754e3bb76400efa65e834fdaabd2\httplib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\CW\cw3\cw3\build\_deps\httplib-subbuild\CMakeFiles\httplib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E18D9046-830D-3EB9-BEBE-09D92AADB1FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

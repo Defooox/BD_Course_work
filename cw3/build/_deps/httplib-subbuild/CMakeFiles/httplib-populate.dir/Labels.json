@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/a39f754e3bb76400efa65e834fdaabd2/httplib-populate.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/fee9f207451173a72911d7b030bb9a9f/httplib-populate-complete.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-build.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-configure.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-download.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-install.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-patch.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-test.rule"
+		},
+		{
+			"file" : "D:/CW/cw3/cw3/build/_deps/httplib-subbuild/CMakeFiles/83dcdbcde4561a2b9d811e7aea72477a/httplib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"httplib-populate"
+		],
+		"name" : "httplib-populate"
+	}
+}

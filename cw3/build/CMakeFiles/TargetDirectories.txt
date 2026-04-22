@@ -1,0 +1,8 @@
+D:/CW/cw3/cw3/build/CMakeFiles/hockey_server.dir
+D:/CW/cw3/cw3/build/CMakeFiles/INSTALL.dir
+D:/CW/cw3/cw3/build/CMakeFiles/ALL_BUILD.dir
+D:/CW/cw3/cw3/build/CMakeFiles/ZERO_CHECK.dir
+D:/CW/cw3/cw3/build/_deps/httplib-build/CMakeFiles/INSTALL.dir
+D:/CW/cw3/cw3/build/_deps/httplib-build/CMakeFiles/ALL_BUILD.dir
+D:/CW/cw3/cw3/build/_deps/nlohmann_json-build/CMakeFiles/INSTALL.dir
+D:/CW/cw3/cw3/build/_deps/nlohmann_json-build/CMakeFiles/ALL_BUILD.dir
